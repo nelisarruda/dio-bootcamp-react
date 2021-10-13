@@ -1,0 +1,11 @@
+print("1 x " + N + " = " + (N * 1));
+print("2 x " + N + " = " + (N * 2));
+print("3 x " + N + " = " + (N *         ));
+print("4 x " + N + " = " + (         ));
+print("5 x " + N + " = " + (         ));
+print("6 x " + N + " = " + (         ));
+print(                                          ));
+print(                                          ));
+print(                                          ));
+print(                                          ));
+
